@@ -2,4 +2,6 @@ Nama : Muhammad Nur Anbiya Pohan
 NPM  : 140810160031
 TTL  : Jakarta, 05 November 1998
 JK   : Laki-laki
-Hobi : Berexplorasi
+
+NAMA : Yusuf Alfianto
+NPM  : 140810160017
