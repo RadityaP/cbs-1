@@ -5,3 +5,6 @@ JK   : Laki-laki
 
 NAMA : Yusuf Alfianto
 NPM  : 140810160017
+
+NAMA : Raditya
+NPM  : 140810160009
