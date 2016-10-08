@@ -8,3 +8,20 @@ NPM  : 140810160017
 
 NAMA : Raditya
 NPM  : 140810160009
+
+Nama	: Raditya Prirahmadian
+NPM	: 140810160009
+TTL	: Kuningan, 1 Juli 1998
+JK	: Laki-Laki
+Hobi 	: Futsal
+Kelas	: A
+
+Nama 	: Eko Fajar Putra
+NPM	: 140810160061
+Kelas	: A
+
+Nama	: Anbiya
+NPM	: 140810160031
+
+Nama	: Alif
+NPM	: 140810160029
